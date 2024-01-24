@@ -1,1 +1,1 @@
-# Basic Maths Four Operations with basic and alerd
+# Basic Maths Four Operations with basic and alert
